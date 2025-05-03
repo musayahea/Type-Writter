@@ -36,7 +36,7 @@ The typewriter effect is achieved by combining:
 - `@keyframes` for CSS animations
 - `steps()` function for a realistic typing pace
 - A blinking cursor using a border animation
-- `setTimeout` to control typing delay
+- `setInterval` to control typing delay
 
 ---
 
